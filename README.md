@@ -41,17 +41,6 @@
 
 <br>
 
-### 📚 Atualmente estudando
-
-- 🧠 Inteligência Artificial
-- 🐍 Python
-- 🌐 Desenvolvimento Web
-- 🗄️ Banco de Dados
-- ⚙️ Lógica de Programação
-- 📊 Algoritmos e Estruturas de Dados
-
----
-
 <h2>📊 Estatísticas</h2>
 
 <div align="center">
