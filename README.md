@@ -1,114 +1,168 @@
-<h1 align="left">
-  👨‍💻 Vinicius Mota
-</h1>
+<h1 align="center">👨‍💻 Vinicius Mota</h1>
 
-<h3 align="left">Artificial Intelligence Student • Developer</h3>
+<h3 align="center">
+  Artificial Intelligence Student • Developer
+</h3>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/🎓_Tecnólogo_em_Inteligência_Artificial-3º_Período-6C63FF?style=for-the-badge" />
+<p align="center">
+  🎓 Tecnologia em Inteligência Artificial • 3º Período
 </p>
 
-<p>
-  Olá! Meu nome é <strong>Vinicius Mota</strong> e atualmente estou cursando
-  <strong>Tecnólogo em Inteligência Artificial</strong>.
-</p>
+<p align="center">
+  <a href="https://github.com/ViniciusMota22">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 
-<p>
-  Tenho interesse em desenvolvimento de software, inteligência artificial,
-  desenvolvimento web e tecnologia em geral.
-</p>
+  <a href="https://www.linkedin.com/in/vinicius-mota-4a443a352/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 
-<p>
-  Atualmente estou desenvolvendo meus conhecimentos em programação e criando
-  projetos para colocar em prática tudo que venho aprendendo.
+  <a href="mailto:vmota287@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
 
 ---
 
-<h2>🤖 Linguagens e Tecnologias</h2>
+## 🧠 Sobre mim
 
-<div align="left">
+Olá! Meu nome é **Vinicius Mota**.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="42"/>
+Atualmente estou cursando o **3º período de Tecnologia em Inteligência Artificial** e construindo minha base em programação, desenvolvimento de software e tecnologias relacionadas à IA.
 
-</div>
+Tenho interesse principalmente em:
 
-<br>
-
-### 📚 Atualmente estudando
-
-- 🧠 Inteligência Artificial
+- 🤖 Inteligência Artificial
 - 🐍 Python
+- 💻 Desenvolvimento de Software
 - 🌐 Desenvolvimento Web
 - 🗄️ Banco de Dados
 - ⚙️ Lógica de Programação
-- 📊 Algoritmos e Estruturas de Dados
+- 📊 Algoritmos
+- 🚀 Criação de projetos
+
+Meu objetivo é continuar evoluindo através dos estudos e principalmente colocando o conhecimento em prática através de projetos.
 
 ---
 
-<h2>📊 Estatísticas</h2>
+## 🛠️ Linguagens e Tecnologias
 
-<div align="center">
+<p align="left">
 
 <img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=ViniciusMota22&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+  width="45"
+  title="Python"
 />
 
 <img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusMota22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+  width="45"
+  title="JavaScript"
 />
 
-</div>
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+  width="45"
+  title="HTML"
+/>
 
----
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+  width="45"
+  title="CSS"
+/>
 
-<h2>🔥 Atividade</h2>
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+  width="45"
+  title="C"
+/>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=ViniciusMota22&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+  width="45"
+  title="C++"
+/>
+
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+  width="45"
+  title="MySQL"
+/>
+
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+  width="45"
+  title="Git"
+/>
+
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+  width="45"
+  title="GitHub"
+/>
+
 </p>
 
-</div>
+---
+
+## 📚 Nível atual
+
+### 🟢 Conhecimentos em desenvolvimento
+
+`Python` • `JavaScript` • `HTML` • `CSS` • `C` • `C++` • `SQL`
+
+Ainda estou desenvolvendo e aprofundando meus conhecimentos nessas tecnologias através dos estudos e projetos.
+
+### 🔵 Atualmente estudando
+
+`Inteligência Artificial` • `Python` • `Desenvolvimento Web` • `Banco de Dados` • `Git & GitHub`
+
+### 🟣 Tecnologias que quero aprofundar
+
+`React` • `Vue.js` • `Node.js` • `APIs` • `Machine Learning` • `Deep Learning`
 
 ---
 
-<h2>🌎 Onde me encontrar</h2>
+## 🤖 Inteligência Artificial
 
-<div align="left">
+Como estudante de Inteligência Artificial, estou construindo conhecimentos em áreas como:
 
-<a href="mailto:vmota287@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+- 🧠 Fundamentos de Inteligência Artificial
+- 🐍 Python aplicado à IA
+- 📊 Manipulação e análise de dados
+- 🧮 Algoritmos
+- 🤖 Machine Learning
+- 🧠 Redes Neurais
+- 📚 Lógica e estruturas de programação
 
-<a href="https://www.linkedin.com/in/vinicius-mota-4a443a352/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://github.com/ViniciusMota22">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</div>
+> Meu foco atualmente é construir uma base sólida antes de avançar para tecnologias mais complexas.
 
 ---
 
-<div align="center">
+## 🚀 Projetos
 
-### 🚀 Aprendendo, construindo e evoluindo um projeto por vez.
+Estou utilizando o GitHub para registrar minha evolução e desenvolver projetos relacionados a:
 
-<img src="https://komarev.com/ghpvc/?username=ViniciusMota22&color=6C63FF&style=for-the-badge&label=VISITAS+NO+PERFIL"/>
+- 🌐 Desenvolvimento Web
+- 🤖 Inteligência Artificial
+- 🐍 Python
+- 🗄️ Banco de Dados
+- 💻 Aplicações e sistemas
+- 📚 Projetos acadêmicos
 
-</div>
+Novos projetos serão adicionados conforme avanço nos estudos.
+
+---
+
+## 💻 Atualmente
+
+```text
+🎓 Cursando Tecnologia em Inteligência Artificial
+📚 3º Período
+🐍 Aprendendo e praticando Python
+🌐 Desenvolvendo conhecimentos em desenvolvimento web
+🗄️ Estudando banco de dados
+🤖 Aprofundando conhecimentos em Inteligência Artificial
+🚀 Criando projetos para colocar o aprendizado em prática
