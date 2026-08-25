@@ -74,11 +74,12 @@
 
 <h2>🔥 Atividade</h2>
 
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=ViniciusMota22&theme=tokyonight&hide_border=true"
-/>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=ViniciusMota22&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
 </div>
 
