@@ -41,24 +41,6 @@
 
 <br>
 
-<h2>📊 Estatísticas</h2>
-
-<div align="center">
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=ViniciusMota22&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br"
-/>
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusMota22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-/>
-
-</div>
-
----
-
 <h2>🔥 Atividade</h2>
 
 <div align="center">
